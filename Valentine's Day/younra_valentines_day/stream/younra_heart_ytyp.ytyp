@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <extensions />
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <guid value="0"/>
+      <lodDist value="50.00000000"/>
+      <flags value="537001984" />
+      <loadFlags value="537001984" />
+      <specialAttribute value="0" />
+      <bbMin x="-0.6287973" y="-0.3045981" z="-2.0844343"/>
+      <bbMax x="0.6804815" y="0.3046130" z="1.6162640"/>
+      <bsCentre x="0.0258421" y="0.0000075" z="-0.2340851"/>
+      <bsRadius value="1.98623"/>
+      <hdTextureDist value="60.0"/>
+      <name>younra_heart</name>
+      <textureDictionary>younra_heart_texture</textureDictionary>
+      <physicsDictionary>younra_heart</physicsDictionary>
+      <clipDictionary />
+      <drawableDictionary />
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>younra_heart</assetName>
+      <extensions />
+      <redm_loves_you_a68fd88a5afa0b22 />
+    </Item>
+  </archetypes>
+  <name>younra_heart_ytyp</name>
+  <dependencies />
+  <compositeEntityTypes itemType="CCompositeEntityType" />
+</CMapTypes>
